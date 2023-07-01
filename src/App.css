@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(64, 193, 236);
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+}
+
+
+.site {
+    position: relative;
+  height: 97vh;
+    border: 1em solid rgb(64, 193, 236);
+    background-color: aliceblue;
+}
